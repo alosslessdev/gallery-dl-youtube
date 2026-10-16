@@ -480,14 +480,6 @@ Consider all listed sites to potentially be NSFW.
         <span title="https://dynasty-scans.com/images?QUERY">Search Results</span></td>
     <td></td>
 </tr>
-<tr id="e-hentai" title="e-hentai">
-    <td>E-Hentai</td>
-    <td>https://e-hentai.org/</td>
-    <td><span title="https://e-hentai.org/favorites.php">Favorites</span> |
-        <span title="https://e-hentai.org/g/12345/67890abcde/">Galleries</span> |
-        <span title="https://e-hentai.org/?f_search=QUERY">Search Results</span></td>
-    <td>Supported</td>
-</tr>
 <tr id="aryion" title="aryion">
     <td>Eka's Portal</td>
     <td>https://aryion.com/</td>
@@ -523,14 +515,6 @@ Consider all listed sites to potentially be NSFW.
         <span title="https://everia.club/?s=SEARCH">Search Results</span> |
         <span title="https://everia.club/tag/TAG">Tag Searches</span></td>
     <td></td>
-</tr>
-<tr id="exhentai" title="exhentai">
-    <td>ExHentai</td>
-    <td>https://exhentai.org/</td>
-    <td><span title="https://e-hentai.org/favorites.php">Favorites</span> |
-        <span title="https://e-hentai.org/g/12345/67890abcde/">Galleries</span> |
-        <span title="https://e-hentai.org/?f_search=QUERY">Search Results</span></td>
-    <td>Supported</td>
 </tr>
 <tr id="facebook" title="facebook">
     <td>Facebook</td>
@@ -729,20 +713,6 @@ Consider all listed sites to potentially be NSFW.
         <span title="https://hdoujin.org/browse?s=QUERY">Search Results</span></td>
     <td></td>
 </tr>
-<tr id="hentaifoundry" title="hentaifoundry">
-    <td>Hentai Foundry</td>
-    <td>https://www.hentai-foundry.com/</td>
-    <td><span title="https://www.hentai-foundry.com/user/USER/faves/pictures">Favorites</span> |
-        <span title="https://www.hentai-foundry.com/pictures/user/USER/12345/TITLE">individual Images</span> |
-        <span title="https://www.hentai-foundry.com/pictures/user/USER">Pictures</span> |
-        <span title="https://www.hentai-foundry.com/pictures/popular">Popular Images</span> |
-        <span title="https://www.hentai-foundry.com/pictures/recent/1970-01-01">Recent Images</span> |
-        <span title="https://www.hentai-foundry.com/pictures/user/USER/scraps">Scraps</span> |
-        <span title="https://www.hentai-foundry.com/stories/user/USER">Stories</span> |
-        <span title="https://www.hentai-foundry.com/pictures/tagged/TAG">Tag Searches</span> |
-        <span title="https://www.hentai-foundry.com/user/USER/profile">User Profiles</span></td>
-    <td></td>
-</tr>
 <tr id="hentai2read" title="hentai2read">
     <td>Hentai2Read</td>
     <td>https://hentai2read.com/</td>
@@ -777,15 +747,6 @@ Consider all listed sites to potentially be NSFW.
     <td><span title="https://hiperdex.com/manga-artist/NAME/">Artists</span> |
         <span title="https://hiperdex.com/manga/MANGA/CHAPTER/">Chapters</span> |
         <span title="https://hiperdex.com/manga/MANGA/">Manga</span></td>
-    <td></td>
-</tr>
-<tr id="hitomi" title="hitomi">
-    <td>Hitomi.la</td>
-    <td>https://hitomi.la/</td>
-    <td><span title="https://hitomi.la/manga/TITLE-867789.html">Galleries</span> |
-        <span title="https://hitomi.la/index-LANG.html">Site Index</span> |
-        <span title="https://hitomi.la/search.html?QUERY">Search Results</span> |
-        <span title="https://hitomi.la/tag/TAG-LANG.html">Tag Searches</span></td>
     <td></td>
 </tr>
 <tr id="hotleak" title="hotleak">
@@ -1255,15 +1216,6 @@ Consider all listed sites to potentially be NSFW.
         <span title="https://www.newgrounds.com/search/conduct/art?terms=QUERY">Search Results</span> |
         <span title="https://USER.newgrounds.com">User Profiles</span></td>
     <td>Supported</td>
-</tr>
-<tr id="nhentai" title="nhentai">
-    <td>nhentai</td>
-    <td>https://nhentai.net/</td>
-    <td><span title="https://nhentai.net/favorites/">Favorites</span> |
-        <span title="https://nhentai.net/g/12345/">Galleries</span> |
-        <span title="https://nhentai.net/search/?q=QUERY">Search Results</span> |
-        <span title="https://nhentai.net/tag/TAG/">Tag Searches</span></td>
-    <td></td>
 </tr>
 <tr id="seiga" title="seiga">
     <td>Niconico Seiga</td>

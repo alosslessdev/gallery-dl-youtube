@@ -846,10 +846,6 @@ def build_extractor_list():
 
     domains["pixiv-novel"] += "novel"
 
-    # add e-hentai.org
-    default["e-hentai"] = default["exhentai"]
-    domains["e-hentai"] = domains["exhentai"].replace("x", "-")
-
     # add coomer.st
     default["coomer"] = default["kemono"]
     domains["coomer"] = "https://coomer.st/"

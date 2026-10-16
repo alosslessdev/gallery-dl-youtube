@@ -4,6 +4,8 @@
 ### Extractors
 - **Additions**
   - [youtube] add extractor for community posts
+- **Removals**
+  - remove nhentai, exhentai, hitomi & hentaifoundry extractors
 
 ## 1.32.16 - 2026-10-09
 ### Extractors
