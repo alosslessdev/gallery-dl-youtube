@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+### Extractors
+- **Additions**
+  - [youtube] add extractor for community posts
+
 ## 1.32.16 - 2026-10-09
 ### Extractors
 - **Additions**

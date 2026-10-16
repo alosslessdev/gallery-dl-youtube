@@ -281,6 +281,7 @@ modules = [
     "xvideos",
     "yiffverse",
     "yourlesbians",
+    "youtube",
     "zerochan",
     "booru",
     "moebooru",

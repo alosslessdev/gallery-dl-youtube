@@ -69,7 +69,7 @@ Consider all listed sites to potentially be NSFW.
 <tr id="8muses" title="8muses">
     <td>8muses</td>
     <td>https://comics.8muses.com/</td>
-    <td><span title="https://comics.8muses.com/comics/album/PATH/TITLE">Albums</span></td>
+    <td><span title="https://comics.8muses.com/porn/album/PATH/TITLE">Albums</span></td>
     <td></td>
 </tr>
 <tr id="myportfolio" title="myportfolio">
@@ -2117,6 +2117,13 @@ Consider all listed sites to potentially be NSFW.
     <td>YourLesbians</td>
     <td>https://yourlesbians.com/</td>
     <td><span title="https://yourlesbians.com/album/SLUG/">Albums</span></td>
+    <td></td>
+</tr>
+<tr id="youtube" title="youtube">
+    <td>Youtube</td>
+    <td>https://www.youtube.com/</td>
+    <td><span title="https://www.youtube.com/post/POSTID">Posts</span> |
+        <span title="https://www.youtube.com/@USER/posts">Posts</span></td>
     <td></td>
 </tr>
 <tr id="zerochan" title="zerochan">
